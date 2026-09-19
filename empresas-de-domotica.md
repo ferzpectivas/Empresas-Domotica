@@ -1,4 +1,4 @@
-1. INTI – Área de Desarrollo y Evaluación de Tecnologías para la Salud y la Discapacidad
+**1. INTI – Área de Desarrollo y Evaluación de Tecnologías para la Salud y la Discapacidad**
 
 Categoría: Tecnología Asistiva / Domótica.
 
@@ -11,7 +11,8 @@ Link: https://www.argentina.gob.ar/inti/desarrollo-y-evaluacion-de-tecnologias-p
 Descripción: Investigación, diseño, desarrollo y validación de tecnologías asistivas, accesibilidad digital y equipamiento para 
 rehabilitación. También brinda capacitación y desarrolla dispositivos para accesibilidad e inclusión.
 
-2. Grupo Audoor / Euromaglia
+
+**2. Grupo Audoor / Euromaglia**
 
 Categoría: Domótica / Accesibilidad.
 
@@ -24,7 +25,8 @@ Link: https://www.audoor.com.ar
 Descripción: Empresa argentina que trabaja con domótica premium, accesos automáticos, equipamiento inteligente para el hogar e inodoros 
 inteligentes adaptados para personas con movilidad reducida.
 
-3. Intelhome
+
+**3. Intelhome**
 
 Categoría: Domótica / Accesibilidad.
 
@@ -37,7 +39,8 @@ Link: https://www.intelhome.com.ar
 Descripción: Ofrece soluciones de casas inteligentes que permiten controlar iluminación, temperatura, accesos, persianas y seguridad mediante 
 smartphone o comandos de voz.
 
-4. LS Domótica
+
+**4. LS Domótica**
 
 Categoría: Domótica / Accesibilidad.
 
@@ -50,7 +53,8 @@ Link: https://lsdomotica.com
 Descripción: Especializada en domótica residencial. Ofrece sistemas para casas terminadas o proyectos desde planos, con control por voz, 
 aplicación y escenas personalizadas. Compatible con Alexa, Google Home y Apple HomeKit.
 
-5. Domotic
+
+**5. Domotic**
 
 Categoría: Domótica / Accesibilidad.
 
@@ -62,7 +66,8 @@ Link: https://www.sistemasdomotic.com.ar
 
 Descripción: Empresa argentina dedicada a sistemas de control inteligente para viviendas, edificios y desarrollos inmobiliarios.
 
-6. Haustech
+
+**6. Haustech**
 
 Categoría: Domótica / Accesibilidad.
 
@@ -74,7 +79,8 @@ Link: https://haustech.com.ar
 
 Descripción: Realiza instalación y configuración de sistemas domóticos, asesoramiento e ingeniería. Cuenta con un showroom certificado por Control4.
 
-7. IECOR
+
+**7. IECOR**
 
 Categoría: Domótica / Accesibilidad.
 
@@ -86,7 +92,8 @@ Link: https://iecor.com
 
 Descripción: Empresa cordobesa especializada en redes inteligentes de automatización, con proyectos a medida y personal matriculado.
 
-8. Life2Better – Representante FIBARO
+
+**8. Life2Better – Representante FIBARO**
 
 Categoría: Domótica / Accesibilidad.
 
@@ -99,7 +106,8 @@ Link: https://www.domoticafibaro.com.ar/landing/
 Descripción: Distribuidor oficial de FIBARO en Argentina. Comercializa centrales, actuadores, sensores y controladores para casas 
 inteligentes, además de contar con representantes e instaladores certificados.
 
-9. Trendhouse
+
+**9. Trendhouse**
 
 Categoría: Domótica / Accesibilidad.
 
@@ -111,7 +119,8 @@ Link: https://www.trendhouse.com.ar
 
 Descripción: Distribuye e integra soluciones de marcas como Lutron, Savant y Crestron, además de sistemas de audio de alta gama.
 
-10. UNLP – UIDET UNITEC
+
+**10. UNLP – UIDET UNITEC**
 
 Categoría: Investigación / Domótica para Discapacidad.
 
@@ -123,7 +132,8 @@ Link: http://sedici.unlp.edu.ar/bitstream/handle/10915/156118/Documento_completo
 
 Descripción: Proyecto de investigación para adaptar viviendas inteligentes para personas con discapacidad, desarrollando sistemas de bajo costo para controlar luces y persianas mediante dispositivos móviles.
 
-11. EPET N°49 de Garuhapé, Misiones
+
+**11. EPET N°49 de Garuhapé, Misiones**
 
 Categoría: Educación / Prototipo Domótico.
 
@@ -136,9 +146,15 @@ Link: https://www.argentina.gob.ar/noticias/estudiantes-de-misiones-realizan-una
 Descripción: Proyecto educativo de una casa domótica para personas con discapacidad motriz. Utiliza Arduino, aplicación móvil, Bluetooth y un 
 servomotor para el portón.
 
-12. Universidad Nacional de Córdoba – Ingeniería Biomédica
+
+**12. Universidad Nacional de Córdoba – Ingeniería Biomédica**
+
 Categoría: Investigación / Domótica para Discapacidad.
+
 Ubicación: Córdoba.
+
 Tipo: Universidad pública.
+
 Link: https://www.revistas.upse.edu.ec/index.php/rctu/article/view/665/560
+
 Descripción: Proyecto integrador de domótica aplicada a personas con discapacidad motriz, basado en Arduino y comandos de voz.
